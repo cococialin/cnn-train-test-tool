@@ -39,7 +39,8 @@ My setup for running the above code is:
     1. The code is stored on Colab
     2. I installed WSL on Windows 11
     3. On WSL I have installed Tensorflow, Keras and all necessary libraries using pip install
-    4. I've connected Colab to run locally using the following instructions: [`https://research.google.com/colaboratory/local-runtimes.html`](https://research.google.com/colaboratory/local-runtimes.html)
+    4. I've connected Colab to run locally using the following instructions: 
+        https://research.google.com/colaboratory/local-runtimes.html
     5. Datasets are stored locally on my PC
     6. I ran the blocks mentioned above 
 ```
