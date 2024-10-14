@@ -32,4 +32,17 @@ How to use for Folder format stored on a drive (local or cloud):
 
 <a href="https://github.com/cococialin/vfft-cnn"> VFFT-CNN </a> is first presented in my Phd Thesis titled: NATURAL INSPIRATION METHODS FOR ENHANCEMENT OF ENVIRONMENTAL INFORMATION RECOGNITION IN MOBILE COMPUTING PLATFORMS
 
-If you find it usefull please cite.
+The implementation can be used on Colab, Kaggle or locally on your PC.
+
+My setup for running the above code is:
+
+```
+    1. The code is stored on Colab
+    2. I installed WSL on Windows 11
+    3. On WSL I have installed Tensorflow, Keras and all necessary libraries using pip install
+    4. I've connected Colab to run locally using the following instructions: <a href="https://research.google.com/colaboratory/local-runtimes.html"> https://research.google.com/colaboratory/local-runtimes.html </a>
+    5. Datasets are stored locally on my PC
+    6. I ran the blocks mentioned above 
+```
+
+If you find it usefull please cite. Enjoy!
